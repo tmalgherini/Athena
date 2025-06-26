@@ -15,6 +15,7 @@
 			LocalDebugGithub;
 			LocalDebugSmb
 		</Configurations>
+		<ApplicationIcon>Icon6.ico</ApplicationIcon>
 	</PropertyGroup>
 		
 	<!-- Default NuGet packages -->
